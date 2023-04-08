@@ -4,9 +4,11 @@ PlaySound is a web application that allows you to listen to your favorite music 
 <sub><sup>(ignore messy code as this was my first web Project).</sup></sub>
 
 ## ScreenShots
+![Screenshot 2023-04-08 140419](https://user-images.githubusercontent.com/68627196/230712183-50cf8093-62da-4cac-b011-43e7fe7e35a2.png)
 
-![a63c0080-9f97-4936-af14-3b372c5402a8](https://user-images.githubusercontent.com/68627196/230711586-ab0cb204-1a93-4dad-b0eb-49cedeaccb1e.png)
-![f68bb2cc-c03d-49a9-bb5c-a8e5306c7c2a](https://user-images.githubusercontent.com/68627196/230711587-a95f7271-e6fa-4bd4-97e6-e12ea2882692.png)
+
+![Screenshot 2023-04-08 140249](https://user-images.githubusercontent.com/68627196/230712186-2c6105bf-7678-472b-96dc-5de1c096b8c4.png)
+
 
 ## Features
 
