@@ -29,6 +29,6 @@ To get started with Joner Music Player, you can either download the code and run
 
 1. Clone the repository: `git clone https://github.com/Shreypatel13ll/PlaySound.git`
 2. Navigate to the project directory: `cd PlaySound`
-3. Install the required packages: `pip install -r requirements.txt`
+3. Install the required packages: `pip install --r requirements.txt`
 4. Run the server: `python main.py`
 5. Open your browser and navigate to: `http://localhost:5000`
