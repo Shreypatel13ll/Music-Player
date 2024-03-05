@@ -11,7 +11,7 @@ PlaySound is a web application that allows you to listen to your favorite music 
 
 
 ## Features
-  
+                          
 - Simple and easy to use user interface
 - Built with Flask, HTML, CSS, and JavaScript
 - No need for searching just click and play
